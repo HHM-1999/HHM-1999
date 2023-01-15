@@ -18,10 +18,7 @@
 <a href="https://fb.com/humayra.mithila.888" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="humayra.mithila.888" height="30" width="40" /></a>
 <a href="https://instagram.com/__huma.9867__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__huma.9867__" height="30" width="40" /></a>
 <a href="https://discord.gg/Humaira Hossain Methela#4474" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Humaira Hossain Methela#4474" height="30" width="40" /></a>
-  <br />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HHM-1999"> </img>
-</p>
-<br  />
+ 
 
 <h1 align="left"><b>Languages and Tools:</b></h1>
 <br  />
@@ -32,9 +29,9 @@
 
   
 
-![GitHub metrics](https://metrics.lecoq.io/HHM-1999)  
-![Profile views](https://gpvc.arturio.dev/HHM-1999)  
-
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=HHM-1999)  
+![GitHub metrics](https://metrics.lecoq.io/HHM-1999)  
+
+
 
 
