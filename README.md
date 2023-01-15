@@ -12,7 +12,7 @@
 - 👯 I’m looking to collaborate on GITHUB 
 
 <h1 align="left"><b> 🤙 Connect with me:</b></h1>
-<p align="left">
+<p align="center">
 
 <a href="https://linkedin.com/in/humaira-hossain-methela" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="humaira-hossain-methela" height="30" width="40" /></a>
 <a href="https://fb.com/humayra.mithila.888" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="humayra.mithila.888" height="30" width="40" /></a>
