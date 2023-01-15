@@ -33,7 +33,7 @@
  <h1 align='left'><b>🎁 Contributions</b></h1>
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=HHM-1999)  
-![GitHub metrics](https://metrics.lecoq.io/HHM-1999)  
+
 
 
 
