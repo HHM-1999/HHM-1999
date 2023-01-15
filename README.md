@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, <b> I'm Humaira Hossain Methela</b></h1>
 <h3 align="center">A passionate Full-Stack developer from Bangladesh</h3>
-<img src="https://media.licdn.com/dms/image/D4D16AQHCNZtNUOc-lA/profile-displaybackgroundimage-shrink_350_1400/0/1670508103059?e=1679529600&v=beta&t=PaXiss0pKgTi87bdRT7ebjhDQOZ9eppyl9_5MRTff38">
+<img align="center" src="https://media.licdn.com/dms/image/D4D16AQHCNZtNUOc-lA/profile-displaybackgroundimage-shrink_350_1400/0/1670508103059?e=1679529600&v=beta&t=PaXiss0pKgTi87bdRT7ebjhDQOZ9eppyl9_5MRTff38">
 </img>
 
 I am well-skilled with HTML, CSS, Bootstrap, Tailwind CSS, JavaScript, React.js, Bootstrap, Daisy UI, Node JS , Firebase Authentication, MongoDB. To get this place with the opportunity to benefits my all technical skills and creativity for the better result of the company .I consider myself that I am Fast learner , Self-motivated and responsible person . In my previous Learning ,I developed several Front End and Back End web based application for my Academic Projects Management . So I accept that I am much capable to work with a team. Also I have A good communication skills and I am punctual to works my words.
