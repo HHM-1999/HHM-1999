@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, <b> I'm Humaira Hossain Methela</b></h1>
+<h1 align="center">Hi 😉, <b> I'm Humaira Hossain Methela</b></h1>
 <h3 align="center">A passionate Full-Stack developer from Bangladesh</h3>
 <img align="center" src="https://media.licdn.com/dms/image/D4D16AQHCNZtNUOc-lA/profile-displaybackgroundimage-shrink_350_1400/0/1670508103059?e=1679529600&v=beta&t=PaXiss0pKgTi87bdRT7ebjhDQOZ9eppyl9_5MRTff38"   width="100%">
 </img>
