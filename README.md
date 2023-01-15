@@ -13,7 +13,7 @@
 
 <h1 align="left"><b> 🤙 Connect with me:</b></h1>
 <p align="left">
-  <br  />
+
 <a href="https://linkedin.com/in/humaira-hossain-methela" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="humaira-hossain-methela" height="30" width="40" /></a>
 <a href="https://fb.com/humayra.mithila.888" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="humayra.mithila.888" height="30" width="40" /></a>
 <a href="https://instagram.com/__huma.9867__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__huma.9867__" height="30" width="40" /></a>
