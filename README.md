@@ -2,6 +2,9 @@
 
 <!--
 **HHM-1999/HHM-1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Humaira Hossain Methela</h1>
+<h3 align="center">A passionate Front-End Web Developer from Bangladesh</h3>
+<img src='Chief Marketing Officer.png'/>
 
 Here are some ideas to get you started:
 
