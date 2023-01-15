@@ -30,12 +30,11 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=HHM-1999)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HHM-1999)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=HHM-1999&show_icons=true&count_private=true)  
+  
 
 ![GitHub metrics](https://metrics.lecoq.io/HHM-1999)  
+![Profile views](https://gpvc.arturio.dev/HHM-1999)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=HHM-1999)  
 
-![Profile views](https://gpvc.arturio.dev/HHM-1999)  
+
