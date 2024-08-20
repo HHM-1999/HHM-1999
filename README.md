@@ -4,7 +4,7 @@
 </img>
 
 <h1 align="left"><b>📖 About Me : </b></h1>
-<p align="left">I am well-skilled with HTML, CSS, Bootstrap, Tailwind CSS, JavaScript, React.js, Bootstrap, Daisy UI, Node JS , Firebase Authentication, MongoDB. To get this place with the opportunity to benefits my all technical skills and creativity for the better result of the company .I consider myself that I am Fast learner , Self-motivated and responsible person . In my previous Learning ,I developed several Front End and Back End web based application for my Academic Projects Management . So I accept that I am much capable to work with a team. Also I have A good communication skills and I am punctual to works my words.</p>
+<p align="left">I am well-skilled with HTML, CSS, Bootstrap, Tailwind CSS, JavaScript, React.js, Bootstrap, Daisy UI, Node JS , Firebase Authentication, MongoDB. To get this place with the opportunity to benefits my all technical skills and creativity for the better result of the company .I consider myself that I am Fast learner , Self-motivated and responsible person.</p>
 
 
 - 🔭 I’m currently working on React. 
