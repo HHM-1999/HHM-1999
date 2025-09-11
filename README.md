@@ -7,7 +7,7 @@
 <p align="left">I am well-skilled with HTML, CSS, Bootstrap, Tailwind CSS, JavaScript, React.js, Bootstrap, Daisy UI, Node JS , Firebase Authentication, MongoDB. To get this place with the opportunity to benefits my all technical skills and creativity for the better result of the company .I consider myself that I am Fast learner , Self-motivated and responsible person.</p>
 
 
-- 🔭 I’m currently working on React. 
+- 🔭 I’m currently working on React and Next Js development. 
 - 👯 I’m looking to collaborate on GITHUB 
 
 <h1 align="left"><b> 🤙 Connect with me:</b></h1>
