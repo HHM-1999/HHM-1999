@@ -21,8 +21,6 @@
 
 <h1 align="left"><b> 💾 Languages and Tools:</b></h1>
 <br  />
-## 💾 Languages and Tools:
-
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,nextjs,bootstrap,css,express,firebase,html,js,mongodb" />
 </p>
